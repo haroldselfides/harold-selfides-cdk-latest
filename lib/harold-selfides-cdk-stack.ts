@@ -1,3 +1,5 @@
+//Harold Sefides
+//Serverless Feedback API with AWS CDK
 import * as cdk from 'aws-cdk-lib';
 import { Construct } from 'constructs';
 import * as dynamodb from 'aws-cdk-lib/aws-dynamodb';
